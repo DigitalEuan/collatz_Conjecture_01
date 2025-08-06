@@ -92,6 +92,8 @@ The UBP-Enhanced Collatz parser successfully demonstrates the theoretical predic
 
 The parser is ready for practical deployment with appropriate computational limits and user interface enhancements.
 
+Version two of this study where we push up to 5 million digits here: [https://www.kaggle.com/code/digitaleuan/large-scale-collatz-parser](url)
+
 ---
 *Generated on 2025-07-03 00:33:52*
 *UBP Framework v22.0 Enhanced*
